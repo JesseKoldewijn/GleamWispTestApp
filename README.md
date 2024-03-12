@@ -1,7 +1,7 @@
 # gt_gleam_app
 
-[![Package Version](https://img.shields.io/hexpm/v/gt_gleam_app)](https://hex.pm/packages/gt_gleam_app)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/gt_gleam_app/)
+<!-- [![Package Version](https://img.shields.io/hexpm/v/gt_gleam_app)](https://hex.pm/packages/gt_gleam_app) -->
+<!-- [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/gt_gleam_app/) -->
 
 ```sh
 gleam add gt_gleam_app
